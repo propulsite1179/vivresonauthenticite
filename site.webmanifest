@@ -1,0 +1,15 @@
+{
+  "name": "Vivre son authenticité — Aurélie Gonzalez",
+  "short_name": "Vivre son authenticité",
+  "description": "Astrologie occidentale et soins énergétiques à distance avec Aurélie Gonzalez.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#03050e",
+  "theme_color": "#050816",
+  "icons": [
+    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
